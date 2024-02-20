@@ -10,12 +10,19 @@ Data Analysis: Perform data analysis on the watch dataset to extract and present
 
 ## Tools and Technology
 Macros: Automated data cleaning and transformation processes are executed through the use of macros.
+
 Conditional Formatting: Enhances the data visualization with conditional formatting to highlight key data points.
+
 Charts: A variety of pie charts, column charts, and histograms are used to represent the data graphically.
+
 Data Validation: Ensures that the inputs provided in the Financial Solver worksheet are appropriate and accurate.
+
 Scenario Manager: Offers the ability to visualize different financing scenarios.
+
 Form Creation: A sophisticated form that populates tables based on user input, incorporating form controls like dropdowns, radio buttons, and checklists.
+
 Pivot Tables with Charts and Slicers: Advanced data summarization tools that allow users to delve deeper into the data with interactive elements.
+
 Formulas and Techniques: A range of Excel formulas such as Nested IF, VLOOKUP, SUM, ROUND, and basic calculations are used for data manipulation and analysis.
 
 ## Results
